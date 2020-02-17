@@ -1,5 +1,5 @@
 {
-    "file": "data_file.csv",
+    "file": "https://raw.githubusercontent.com/chitown88/upset_data/master/data.csv",
     "name": "Data",
     "header": 0,
     "separator": ",",
